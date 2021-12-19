@@ -20,7 +20,7 @@
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![JS](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![VUE](https://img.icons8.com/color/48/000000/vue-js.png)
-![REACT](https://img.icons8.com/plasticine/100/000000/react.png)
+![REACT](https://img.icons8.com/plasticine/48/000000/react.png)
 ![BOOTSTRAP](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![SASS](https://img.icons8.com/color/48/000000/sass-avatar.png)
 
