@@ -26,7 +26,7 @@
 
 ------
 
-## __My Projects__
+<!-- ## __My Projects__
 <img src="https://firebasestorage.googleapis.com/v0/b/debtnote-dn.appspot.com/o/debtnote-icon.png?alt=media&token=47d5627c-cccb-451d-ac7b-bca44e18fc73" width=24 /> __Debtnote__ - Free, simple and reliable web app, that might help you organize your debts.
 - URL: https://debtnote-dn.web.app/
 - Repo: https://github.com/sam-kmn/debtnote
@@ -38,5 +38,5 @@
 
 ![Rick And Morty Characters](https://img.icons8.com/plasticine/30/000000/morty-smith.png) __Rick and Morty Characters__ - Simple project powered by Rick and Morty API, built for easy access to characters from Rick and Morty series.
 - URL: https://samkmn-rickandmorty.netlify.app/
-- Repo: https://github.com/sam-kmn/rick-n-morty-characters
+- Repo: https://github.com/sam-kmn/rick-n-morty-characters -->
 
