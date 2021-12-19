@@ -3,14 +3,16 @@
 ### My name is Samuel Kamiński 
 >I am a 22 years old, self-taught, beginner frontend developer from Poland 🇵🇱.  
 >
-> So far I have no professional experience in programming, however coding is my main and favourite hobby. I am looking forward to good collaboration in the future!
+> So far I have no professional experience in programming, however coding is my main and favourite hobby.  
+> I am looking forward to good collaboration in the future!
 
 #### __More about me__
-- 📖 Currently learning Vue.js
-- 🛠 Right now, working on __Debtnote__
+- 📖 Currently learning `React`
+<!-- - 🛠 Right now, working on __Debtnote__ -->
 - 🦉 My coding goals:
+    - Learn MUI
     - Learn TypeScript
-    - Learn React
+    - Learn Tailwind
 - 📫 How to reach me: 
     - samuel.kaminski@protonmail.com
     - sancho.kmn@gmail.com
