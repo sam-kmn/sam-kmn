@@ -20,13 +20,14 @@
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![JS](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![VUE](https://img.icons8.com/color/48/000000/vue-js.png)
+![REACT](https://img.icons8.com/plasticine/100/000000/react.png)
 ![BOOTSTRAP](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![SASS](https://img.icons8.com/color/48/000000/sass-avatar.png)
 
-
+<!-- 
 ------
 
-<!-- ## __My Projects__
+## __My Projects__
 <img src="https://firebasestorage.googleapis.com/v0/b/debtnote-dn.appspot.com/o/debtnote-icon.png?alt=media&token=47d5627c-cccb-451d-ac7b-bca44e18fc73" width=24 /> __Debtnote__ - Free, simple and reliable web app, that might help you organize your debts.
 - URL: https://debtnote-dn.web.app/
 - Repo: https://github.com/sam-kmn/debtnote
