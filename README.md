@@ -5,6 +5,7 @@ I am a 22 years old, self-taught, beginner front-end developer from Poland 🇵�
 Programming is my main hobby which I have been progressively developing for months.  
 So far I have no professional experience in programming, however I am looking forward to good collaboration in the future! 
 
+[Take a look, at my newest project I'm working on](https://talkabout.netlify.app/)
 
 #### __More about me__
 - 📖 Currently learning `React`
