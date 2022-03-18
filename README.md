@@ -8,11 +8,11 @@ So far I have no professional experience in programming, however I am looking fo
 ## [Take a look, at the project I'm currently working on](https://talkabout.netlify.app/)
 
 #### __More about me__
-- 📖 Currently learning `React`
+- 📖 Currently learning `Redux`
 <!-- - 🛠 Right now, working on __Debtnote__ -->
 - 🦉 My coding goals:
-    - Learn MUI
     - Learn TypeScript
+    - Learn MUI
     - Learn Tailwind
 - 📫 How to reach me: 
     - samuel.kaminski@protonmail.com
