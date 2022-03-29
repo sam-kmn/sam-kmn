@@ -8,7 +8,7 @@ So far I have no professional experience in programming, however I am looking fo
 ## [🛠 Take a look, at the project I'm currently working on](https://talkabout.netlify.app/)
 
 #### __More about me__
-- 📖 Currently learning `Redux`
+- 📖 Currently learning `Next.js` and `Redux`
 <!-- - 🛠 Right now, working on __Debtnote__ -->
 - 🦉 My coding goals:
     - Learn TypeScript
