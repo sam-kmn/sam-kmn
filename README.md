@@ -25,8 +25,11 @@ So far I have no professional experience in programming, however I am looking fo
 ![JS](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![VUE](https://img.icons8.com/color/48/000000/vue-js.png)
 ![REACT](https://img.icons8.com/plasticine/48/000000/react.png)
+![REDUX](https://img.icons8.com/color/48/000000/redux.png)
 ![BOOTSTRAP](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![SASS](https://img.icons8.com/color/48/000000/sass-avatar.png)
+![FIGMA](https://img.icons8.com/color/48/000000/figma--v1.png")
+
 
 <!-- 
 ------
