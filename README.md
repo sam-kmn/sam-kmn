@@ -5,31 +5,32 @@ I am a 22 years old, self-taught, beginner front-end developer from Poland 🇵�
 Programming is my main hobby which I have been progressively developing for months.  
 So far I have no professional experience in programming, however I am looking forward to good collaboration in the future! 
 
-## [🛠 Take a look, at the project I'm currently working on](https://talkabout.netlify.app/)
+<br />
 
-#### __More about me:__
-* 📖 Currently learning:
-    * Next.js
-    * Redux
-    * TailwindCSS
-    
-* 🦉 My coding goals:
-    * Learn TypeScript
-    * Learn MUI
+## [👁 Take a look, at one of my projects](https://talkabout.netlify.app/)
 
-* 📫 How to reach me: 
-    * samuel.kaminski@protonmail.com
-    * sancho.kmn@gmail.com
+<br />
+
+
+### 📫 How to reach me: 
+* samuel.kaminski@protonmail.com
+* samuel.kaminski@proton.me
+* sancho.kmn@gmail.com
 ---
-### __My skills__
+## __My skills__
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![JS](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![VUE](https://img.icons8.com/color/48/000000/vue-js.png)
+
 ![REACT](https://img.icons8.com/plasticine/48/000000/react.png)
+<img alt="SolidJS" width=48 src="https://avatars.githubusercontent.com/u/79226042?s=280&v=4" />
+<img alt="Next.js" width=48 src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png">
 ![REDUX](https://img.icons8.com/color/48/000000/redux.png)
+
 ![BOOTSTRAP](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![SASS](https://img.icons8.com/color/48/000000/sass-avatar.png)
+<img alt="Tailwindcss" width=48 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" />
 ![FIGMA](https://img.icons8.com/color/48/000000/figma--v1.png")
 
 
