@@ -5,18 +5,16 @@ I am a 22 years old, self-taught, beginner front-end developer from Poland 🇵�
 Programming is my main hobby which I have been progressively developing for months.  
 So far I have no professional experience in programming, however I am looking forward to good collaboration in the future! 
 
-<br />
 
 ## [👁 Take a look, at one of my projects](https://talkabout.netlify.app/)
-
-<br />
 
 
 ### 📫 How to reach me: 
 * samuel.kaminski@protonmail.com
 * samuel.kaminski@proton.me
 * sancho.kmn@gmail.com
----
+
+
 ## __My skills__
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
