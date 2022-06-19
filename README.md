@@ -8,12 +8,12 @@ So far I have no professional experience in programming, however I am looking fo
 
 ## [👁 Take a look, at one of my projects](https://talkabout.netlify.app/)
 
-
 ### 📫 How to reach me: 
 * samuel.kaminski@protonmail.com
 * samuel.kaminski@proton.me
 * sancho.kmn@gmail.com
 
+#### 🦉 Currently learning __TypeScript__
 
 ## __My skills__
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
