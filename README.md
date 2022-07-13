@@ -19,33 +19,19 @@ So far I have no professional experience in programming, however I am looking fo
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![JS](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![TS](https://img.icons8.com/color/48/000000/typescript.png)
+
+
 ![VUE](https://img.icons8.com/color/48/000000/vue-js.png)
-
 ![REACT](https://img.icons8.com/plasticine/48/000000/react.png)
+<img alt="Next.js" width=48 src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" />
 <img alt="SolidJS" width=48 src="https://avatars.githubusercontent.com/u/79226042?s=280&v=4" />
-<img alt="Next.js" width=48 src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png">
+
 ![REDUX](https://img.icons8.com/color/48/000000/redux.png)
-
-![BOOTSTRAP](https://img.icons8.com/color/48/000000/bootstrap.png)
-![SASS](https://img.icons8.com/color/48/000000/sass-avatar.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
 <img alt="Tailwindcss" width=48 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" />
+
+![SASS](https://img.icons8.com/color/48/000000/sass-avatar.png)
+![BOOTSTRAP](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![FIGMA](https://img.icons8.com/color/48/000000/figma--v1.png")
-
-
-<!-- 
-------
-
-## __My Projects__
-<img src="https://firebasestorage.googleapis.com/v0/b/debtnote-dn.appspot.com/o/debtnote-icon.png?alt=media&token=47d5627c-cccb-451d-ac7b-bca44e18fc73" width=24 /> __Debtnote__ - Free, simple and reliable web app, that might help you organize your debts.
-- URL: https://debtnote-dn.web.app/
-- Repo: https://github.com/sam-kmn/debtnote
-
-<img src="https://github.com/sam-kmn/fireqr/blob/master/src/assets/favicon.png?raw=true" width=24 /> __FireQR__ - My first project. QR generator, powered by [Firebase](https://firebase.google.com/) and [GoQR API](https://goqr.me/api/)
-- URL: https://fireqr-generator.web.app/
-- Repo: https://github.com/sam-kmn/fireqr
-
-
-![Rick And Morty Characters](https://img.icons8.com/plasticine/30/000000/morty-smith.png) __Rick and Morty Characters__ - Simple project powered by Rick and Morty API, built for easy access to characters from Rick and Morty series.
-- URL: https://samkmn-rickandmorty.netlify.app/
-- Repo: https://github.com/sam-kmn/rick-n-morty-characters -->
-
