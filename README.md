@@ -1,9 +1,8 @@
 # Hi, I’m Sam! 😀
 
-### My name is Samuel Kamiński 
-I am a 22 years old, self-taught, beginner front-end developer from Poland 🇵🇱.  
-Programming is my main hobby which I have been progressively developing for months.  
-So far I have no professional experience in programming, however I am looking forward to good collaboration in the future! 
+## My name is Samuel Kamiński 
+I am a beginner Front-end Developer and programming is my main hobby which I have been progressively developing for about a year. I try to devote every free moment to learning, because it is my passion and a way to spend my time in a pleasant and productive way.
+I am a person who can perfectly adapt to the environment and quickly assimilates knowledge.  I am very good at both individual and team work.  Patience, creativity and self-control are undoubtedly my big advantages.
 
 
 ## [👁 Take a look, at one of my projects](https://talkabout.netlify.app/)
