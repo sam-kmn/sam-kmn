@@ -3,7 +3,6 @@
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://www.samuelkaminski.dev)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sam-kmn/)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@sam-kmn)
-[<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />](https://www.tiktok.com/@dev__sam?_t=8bvL1Zbg2yg&_r=1)
 
 ## About me
 My name is Samuel Kaminski, I am a Front-end Developer from Poland 🇵🇱  
@@ -42,5 +41,8 @@ I am constantly expanding my knowledge and improving my skills. I try to stay up
 
 ### ⚡️ Project I recommend checking out [KanBox](https://github.com/sam-kmn/kanbox)
 
+<!-- 
 ### 👁️ How I built task manager with Next.js + Tailwind CSS
 [![How I built task manager with Next.js + Tailwind CSS](https://img.youtube.com/vi/uTmgUHyDWFo/0.jpg)](https://www.youtube.com/watch?v=uTmgUHyDWFo)
+-->
+
